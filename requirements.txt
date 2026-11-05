@@ -1,0 +1,8 @@
+# Pinned, mutually compatible versions (diffprivlib 0.6.6 breaks on
+# scikit-learn >= 1.6 and on SciPy versions that removed `iprint`).
+numpy==2.1.3
+scipy==1.14.1
+pandas==2.2.3
+scikit-learn==1.5.2
+matplotlib==3.9.2
+diffprivlib==0.6.6
